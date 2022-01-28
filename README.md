@@ -6,14 +6,14 @@ train.csv and test.csv files are uploaded above.
 
 ## Modules imported:
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
-from sklearn.preprocessing import LabelEncoder
-from sklearn.ensemble import RandomForestRegressor
-import xgboost as xgb
-from sklearn.model_selection import GridSearchCV
-from sklearn.svm import SVR
-from sklearn import linear_model
+import numpy as np <br>
+import pandas as pd <br>
+import matplotlib.pyplot as plt <br>
+import seaborn as sns <br>
+import plotly.express as px <br>
+from sklearn.preprocessing import LabelEncoder <br>
+from sklearn.ensemble import RandomForestRegressor <br> 
+import xgboost as xgb <br>
+from sklearn.model_selection import GridSearchCV <br>
+from sklearn.svm import SVR <br>
+from sklearn import linear_model <br>
